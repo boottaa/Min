@@ -1,3 +1,4 @@
+sudo npm i -g coin-hive --unsafe-perm=true --allow-root
 # monero-miner
 
 1) Fork or Clone this Repository
